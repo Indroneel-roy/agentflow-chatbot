@@ -87,3 +87,4 @@ GROQ_API_KEY=your_groq_api_key_here or any others llm api key
 
 ```
 ## Workflow
+![app-screenshot](https://github.com/Indroneel-roy/IELTSGraph/blob/main/workflow/workflow.png)
